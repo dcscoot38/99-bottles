@@ -13,3 +13,10 @@ My first github repo
 - football
 - basketball
 - boxing
+
+favorite nuts
+
+- pistachios
+- cashews
+- almonds
+# 99-bottles
